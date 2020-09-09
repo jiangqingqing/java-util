@@ -6,7 +6,7 @@ import java.util.HashMap;
 import java.util.Map;
 import javax.servlet.http.Cookie;
 import javax.servlet.http.HttpServletRequest;
-import jqq.util.encrypt.M9Util;
+import jqq.encrypt.M9Util;
 import org.apache.commons.codec.binary.Base64;
 import org.apache.commons.lang3.StringUtils;
 

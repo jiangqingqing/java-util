@@ -1,7 +1,7 @@
 /**
  * 创建时间：2019年9月29日
  */
-package jqq.util.encrypt;
+package jqq.encrypt;
 
 import javax.crypto.Cipher;
 import javax.crypto.spec.SecretKeySpec;
@@ -9,7 +9,7 @@ import javax.crypto.spec.SecretKeySpec;
 import org.apache.commons.codec.binary.Hex;
 
 /**
- * AES工具类。
+ * AES对称加密工具类。
  * 
  * @author <a href="mailto:nieyong.ny@alibaba-inc.com">聂勇</a>
  */

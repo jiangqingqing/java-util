@@ -1,4 +1,4 @@
-package jqq.util.encrypt;
+package jqq.encrypt;
 
 import java.io.File;
 import java.io.FileInputStream;
@@ -37,14 +37,7 @@ import org.springframework.util.ResourceUtils;
 
 /**
  * 
- * RSA算法加密/解密工具类
- *
- * <br>=
- * ========================= <br>
- * 公司：优视科技 <br>
- * 开发：<a href="mailto:linzc3@ucweb.com">林钊川 </a> <br>
- * 版本： <br>
- * 创建时间：2014-9-2 <br>=
+ * RSA非对称算法加密/解密工具类
  * =========================
  */
 public abstract class RSAUtil {

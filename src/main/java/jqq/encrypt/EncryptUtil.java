@@ -1,7 +1,5 @@
-package jqq.util.encrypt;
+package jqq.encrypt;
 
-import java.io.UnsupportedEncodingException;
-import java.rmi.UnexpectedException;
 import java.security.MessageDigest;
 import org.apache.commons.codec.binary.Hex;
 import org.springframework.util.DigestUtils;

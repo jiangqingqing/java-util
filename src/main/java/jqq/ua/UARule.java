@@ -1,4 +1,4 @@
-package jqq.util.ua;
+package jqq.ua;
 
 interface UARule {
 	static enum Category {

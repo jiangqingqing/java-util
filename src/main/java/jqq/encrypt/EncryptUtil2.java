@@ -1,4 +1,4 @@
-package jqq.util.encrypt;
+package jqq.encrypt;
 
 public class EncryptUtil2 {
 

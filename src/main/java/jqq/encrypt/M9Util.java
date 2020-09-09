@@ -1,4 +1,4 @@
-package jqq.util.encrypt;
+package jqq.encrypt;
 
 /**
  * M9工具类

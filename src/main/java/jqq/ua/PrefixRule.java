@@ -1,4 +1,4 @@
-package jqq.util.ua;
+package jqq.ua;
 
 
 class PrefixRule extends AbstractUARule {
